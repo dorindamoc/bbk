@@ -1,2 +1,2 @@
 # bbk
-Base NestJS7Postgresql backend
+Base NestJS/Postgresql backend
